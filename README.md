@@ -39,9 +39,10 @@ Later NES games had to concentrate on wowing new customers, from strong competit
 In Pixel Pirate we want to keep the NES aesthetic, with a little bit of “Plus”. Previously all walk cycles in the game were a lavish 8 frames. With modern gaming technology we are not limited in any way, the walk cycle could be 20,000 frames and modern hardware wouldn’t miss a beat. However these 8 frames seemed out of place with the overall NES+ feel, so cutting them back helped a lot.
 
 ![](/media/pixelpirate-2.gif)
-![](/media/pixelpirate-front.gif)
 
 With so few frames it is important to have a lot going on. If one thing is moving left, make another thing move up. If something moves every frame, make another thing move 2 frames. If something is not rigidly tethered, give it gravity after impact and so on. Having areas of irregular unsynchronised motion help create the illusion of more motion.
+
+![](/media/pixelpirate-front.gif)
 
 As the animation for Pete, the character above, is very condensed in to his portly form, animation only needs to be centered around things that move, like his hat, earring, belt etc. A low frame count affords a few benefits:
 
@@ -52,3 +53,7 @@ As the animation for Pete, the character above, is very condensed in to his port
 One thing that can’t be done with 4 frame animation is facial expressions like blinking and/or opening of the characters mouth as they walk, as these are usually buried in a higher frame count and the repetition is less noticeable.
 
 Thanks for reading!
+
+## Reproduced from Dadako.com
+
+This content has been reproduced from a post belonging to Dadako's 8-bit devlog series. While most of the series remains inctact, this post has gone missing, possibly due to a server or site issue. 
